@@ -47,7 +47,3 @@ Contributions to the Healthcare Consultant App are welcome! If you'd like to con
 
 This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for personal or commercial purposes. See the LICENSE file for more details.
 
-## Contact
-
----
-This README.md template provides an overview of the Healthcare Consultant App, including its features, installation instructions, contribution guidelines, licensing information, and contact details. Customize it as needed for your specific project.
