@@ -38,7 +38,10 @@ To run the Healthcare Consultant App on your device, follow these steps:
    ```
    npx react-native run-ios
    ```
+## 🔗 Screenshots
+
 ## 🔗 Technology Stack
+
 
 ### Frontend:
 - **React Native**: A JavaScript framework for building native mobile applications.
