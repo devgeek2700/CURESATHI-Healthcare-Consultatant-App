@@ -38,6 +38,32 @@ To run the Healthcare Consultant App on your device, follow these steps:
    ```
    npx react-native run-ios
    ```
+## 🔗 Technology Stack
+
+### Frontend:
+- **React Native**: A JavaScript framework for building native mobile applications.
+- **Redux**: A predictable state container for managing application state.
+
+### Backend:
+- **Node.js**: A JavaScript runtime for building server-side applications.
+- **Express.js**: A web application framework for Node.js.
+
+### IDE:
+- **VS Code**: A lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS, and Linux.
+
+### Design:
+- **Figma**: A collaborative interface design tool.
+- **Canva**: An online graphic design platform.
+
+### API Testing & Documentation:
+- **Postman**: A collaboration platform for API development.
+
+### Version Control:
+- **Git and GitHub**: Git is a distributed version control system, and GitHub is a cloud-based hosting service for version control using Git.
+
+### Database:
+- **MongoDB**: A cross-platform document-oriented database program.
+
 
 ## Contributing
 
