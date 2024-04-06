@@ -42,6 +42,19 @@ To run the Healthcare Consultant App on your device, follow these steps:
 
 ## 🔗 Technology Stack
 
+![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o1.png?raw=true)
+
+
+![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o2.png?raw=true)
+
+
+![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o3.png?raw=true)
+
+
+![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o4.png?raw=true)
+
+
+![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o5.png?raw=true)
 
 ### Frontend:
 - **React Native**: A JavaScript framework for building native mobile applications.
