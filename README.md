@@ -64,6 +64,19 @@ To run the Healthcare Consultant App on your device, follow these steps:
 ### Database:
 - **MongoDB**: A cross-platform document-oriented database program.
 
+## Team Members
+
+| S.No. | Name                | Role                   | GitHub Username      |
+|-------|---------------------|------------------------|----------------------|
+| 1.    | Rudrakshi           | Team Leader            | @rudrakshi99         |
+| 2.    | Sarthak Shukla      | Frontend Development   | @sarthakshukla1316  |
+| 3.    | Suyash Rastogi      | Frontend Development   | @suyashrastogi7      |
+| 4.    | Anmol Srivastava    | Backend Development    | @anmolsrivastava1    |
+| 5.    | Parth Sharma        | Full-stack Development| @ParthSharmaT        |
+| 6.    | Kushal Gautam       | Product Designer       | @kushalgautam        |
+
+
+
 
 ## Contributing
 
