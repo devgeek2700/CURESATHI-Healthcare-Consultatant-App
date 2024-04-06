@@ -1,4 +1,4 @@
-# Healthcare Consultant App using React Native
+# CURESATHI - Healthcare Consultant App
 
 ## Overview
 
