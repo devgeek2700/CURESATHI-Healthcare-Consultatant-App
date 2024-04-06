@@ -40,8 +40,6 @@ To run the Healthcare Consultant App on your device, follow these steps:
    ```
 ## 🔗 Screenshots
 
-## 🔗 Technology Stack
-
 ![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o1.png?raw=true)
 
 
@@ -55,6 +53,8 @@ To run the Healthcare Consultant App on your device, follow these steps:
 
 
 ![App Screenshot](https://github.com/devgeek2700/CURESATHI-Healthcare-Consultatant-App/blob/main/Images/o5.png?raw=true)
+
+## 🔗 Technology Stack
 
 ### Frontend:
 - **React Native**: A JavaScript framework for building native mobile applications.
