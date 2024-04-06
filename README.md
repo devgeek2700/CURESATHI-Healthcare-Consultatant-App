@@ -72,8 +72,8 @@ To run the Healthcare Consultant App on your device, follow these steps:
 | 2.    | Neha Singh      | Frontend Development   | @devgeek2700  |
 | 3.    | Anaum Sharif      | Backend Development(AI/ML)   | @suyashrastogi7      |
 | 4.    | sharibkhan1    | UI/UX Design    | @sharibkhan1    |
-| 5.    | Aryan Darade | Product Designer | @ARYANDARADE        |
-| 6.    | Raghvendra Devadiga       | Frontend Development      | @kushalgautam        |
+| 5.    | Aryan Darade |  Frontend Development| @ARYANDARADE        |
+| 6.    | Raghvendra Devadiga       | Product Designer       | @Raghvendra2420        |
 
 
 
