@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Healthcare Consultant App is a mobile application developed using React Native technology. It aims to address the challenges faced by rural populations in accessing quality healthcare services by providing a platform for remote consultations with healthcare professionals. Additionally, the app utilizes artificial intelligence (AI) and location-based recommendations to connect users with suitable doctors and hospitals in their vicinity.
+The Healthcare Consultant App is a mobile application developed using React Native technology. It aims to address the challenges faced by rural populations in accessing quality healthcare services by providing a platform for remote consultations with healthcare professionals. Additionally, the app utilizes artificial intelligence (AI) and location-based recommendations to connect users with suitable doctors and hospitals in their vicinity. This project was made specifically for the Solapur hackathon competition 2024.
 
 ## Key Features
 
