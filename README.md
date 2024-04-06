@@ -68,12 +68,12 @@ To run the Healthcare Consultant App on your device, follow these steps:
 
 | S.No. | Name                | Role                   | GitHub Username      |
 |-------|---------------------|------------------------|----------------------|
-| 1.    | Rudrakshi           | Team Leader            | @rudrakshi99         |
-| 2.    | Sarthak Shukla      | Frontend Development   | @sarthakshukla1316  |
-| 3.    | Suyash Rastogi      | Frontend Development   | @suyashrastogi7      |
-| 4.    | Anmol Srivastava    | Backend Development    | @anmolsrivastava1    |
-| 5.    | Parth Sharma        | Full-stack Development| @ParthSharmaT        |
-| 6.    | Kushal Gautam       | Product Designer       | @kushalgautam        |
+| 1.    | Pritesh  Verma | Team Leader (Backend Development)         | @Priteshverma123         |
+| 2.    | Neha Singh      | Frontend Development   | @devgeek2700  |
+| 3.    | Anaum Sharif      | Backend Development(AI/ML)   | @suyashrastogi7      |
+| 4.    | sharibkhan1    | UI/UX Design    | @sharibkhan1    |
+| 5.    | Aryan Darade | Product Designer | @ARYANDARADE        |
+| 6.    | Raghvendra Devadiga       | Frontend Development      | @kushalgautam        |
 
 
 
